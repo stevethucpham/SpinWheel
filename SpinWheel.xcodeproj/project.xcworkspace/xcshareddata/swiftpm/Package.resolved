@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "fortunewheel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sameersyd/FortuneWheel.git",
+      "state" : {
+        "revision" : "900461e1c22ca70ee0b0e15cf97e3cef4132d84b",
+        "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "swiftui-shimmer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/markiv/SwiftUI-Shimmer",
+      "state" : {
+        "revision" : "17b66b0e7d94d2d3f220bbcb021b5026436f06c7",
+        "version" : "1.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
